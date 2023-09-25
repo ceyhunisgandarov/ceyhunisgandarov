@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ceyhunisgandarov
-- 👀 I’m interested in ...
+- 👀 I’m interested in Spring, React, API
 - 🌱 I’m currently learning Web coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by mr.ceyhunisgandarov@gmail.com
 
 <!---
 ceyhunisgandarov/ceyhunisgandarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
